@@ -3,5 +3,6 @@ node_modules
 .cache
 build
 public/build
+dev.db-journal
 dev.db
 .env
